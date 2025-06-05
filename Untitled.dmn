@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<definitions xmlns="https://www.omg.org/spec/DMN/20230324/MODEL/" expressionLanguage="https://www.omg.org/spec/DMN/20230324/FEEL/" namespace="https://kie.org/dmn/_9428F367-AC10-4AEF-B2B0-A0DBAEBA235E" id="_020D87CE-2D4B-4CB1-94AC-4BEC89172A9B" name="DMN_8A91D60F-0D8F-4AF8-A9C4-0F40B03C1AA6" xmlns:dmndi="https://www.omg.org/spec/DMN/20230324/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:kie="https://kie.org/dmn/extensions/1.0">
+  <decision name="New Decision" id="_7516D832-522A-44E2-B549-3294CB0AF3E0">
+    <variable name="New Decision" id="_8B789F9E-C75E-456F-8947-992E60D61C17" />
+  </decision>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram id="_77425E99-8F1D-470F-8026-AF73C3C73B47" name="Default DRD" useAlternativeInputDataShape="false">
+      <di:extension>
+        <kie:ComponentsWidthsExtension>
+          <kie:ComponentWidths />
+        </kie:ComponentsWidthsExtension>
+      </di:extension>
+      <dmndi:DMNShape id="_F4389AB5-D1A1-4BC2-BDBE-6BD112D2E2EF" dmnElementRef="_7516D832-522A-44E2-B549-3294CB0AF3E0" isCollapsed="false" isListedInputData="false">
+        <dc:Bounds x="380" y="160" width="160" height="80" />
+      </dmndi:DMNShape>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</definitions>
